@@ -53,8 +53,7 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 ## 📊 Sample Visuals
 
 ### 🔥 Correlation Heatmap
-
-![Heatmap](https://raw.githubusercontent.com/anziyas/Crime Prediction Analysis/main/Heatmap.png.png)
+https://github.com/Anziya-AS/Crime-Prediction-Analysis/raw/main/Heatmap.png.png?raw=true
 
 ---
 
