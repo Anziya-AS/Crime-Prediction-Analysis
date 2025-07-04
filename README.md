@@ -56,7 +56,7 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 
 ### 🔥 Heatmap of Crime Occurrence
 
-![Heatmap](heatmap.png)
+Heatmap.png.png
 
 
 
