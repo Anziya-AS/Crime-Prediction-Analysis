@@ -64,7 +64,7 @@ https://github.com/Anziya-AS/Crime-Prediction-Analysis/raw/main/Frequency%20Dist
 
 ### 🧠 Web App – Input Interface
 
-![Web Input](https://raw.githubusercontent.com/anziyas/crime-prediction-analysis/main/Output1.png.png)
+https://github.com/Anziya-AS/Crime-Prediction-Analysis/blob/main/Output1.png.png?raw=true
 
 ---
 
