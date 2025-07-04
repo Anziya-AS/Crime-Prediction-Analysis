@@ -59,8 +59,7 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 ---
 
 ### 📅 Monthly & Day-wise Crime Distribution
-
-![Distribution](https://raw.githubusercontent.com/anziyas/crime-prediction-analysis/main/Frequency%20Distribution.png.png)
+https://github.com/Anziya-AS/Crime-Prediction-Analysis/blob/main/Frequency%20Distribution.png.png?raw=true
 
 ---
 
