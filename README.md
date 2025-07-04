@@ -50,36 +50,30 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 
 ---
 
-## 📊 Sample Visuals (if available)
-
 ## 📊 Sample Visuals
 
 ### 🔥 Correlation Heatmap
 
-![Heatmap](Heatmap.png)
+![Heatmap](https://raw.githubusercontent.com/anziyas/Crime Prediction Analysis/main/Heatmap.png.png)
 
 ---
 
 ### 📅 Monthly & Day-wise Crime Distribution
 
-![Distribution](Frequency%20Distribution.png)
+![Distribution](https://raw.githubusercontent.com/anziyas/crime-prediction-analysis/main/Frequency%20Distribution.png.png)
 
 ---
 
 ### 🧠 Web App – Input Interface
 
-![Web Input UI](Output1.png)
+![Web Input](https://raw.githubusercontent.com/anziyas/crime-prediction-analysis/main/Output1.png.png)
 
 ---
 
 ### 📍 Web App – Prediction Output
 
-![Prediction Result](Output2.png)
+![Prediction Output](https://raw.githubusercontent.com/anziyas/crime-prediction-analysis/main/Output2.png.png)
 
-
-### 🔥 Heatmap of Crime Occurrence
-
-Heatmap.png.png
 
 
 
