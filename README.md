@@ -1,4 +1,4 @@
-# 🔍 Crime Prediction and Analysis System (CRIMINOVA)
+# 🔍 Crime Prediction and Analysis System 
 
 A machine learning web application that predicts the likelihood and type of crime based on user-input location and time.
 
@@ -51,8 +51,13 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 ---
 
 ## 📊 Sample Visuals (if available)
-*(You can upload screenshots from your report or create new ones later)*
-![image](https://github.com/user-attachments/assets/dd5b1e19-a7d8-485a-9370-19071ff3c9c0)
+
+
+
+### 🔥 Heatmap of Crime Occurrence
+
+![Heatmap](heatmap.png)
+
 
 
 - Heatmaps of crime occurrence
