@@ -52,6 +52,29 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 
 ## 📊 Sample Visuals (if available)
 
+## 📊 Sample Visuals
+
+### 🔥 Correlation Heatmap
+
+![Heatmap](Heatmap.png)
+
+---
+
+### 📅 Monthly & Day-wise Crime Distribution
+
+![Distribution](Frequency%20Distribution.png)
+
+---
+
+### 🧠 Web App – Input Interface
+
+![Web Input UI](Output1.png)
+
+---
+
+### 📍 Web App – Prediction Output
+
+![Prediction Result](Output2.png)
 
 
 ### 🔥 Heatmap of Crime Occurrence
