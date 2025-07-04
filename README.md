@@ -52,6 +52,8 @@ This project uses historical crime data, geolocation, and machine learning (Rand
 
 ## 📊 Sample Visuals (if available)
 *(You can upload screenshots from your report or create new ones later)*
+![image](https://github.com/user-attachments/assets/dd5b1e19-a7d8-485a-9370-19071ff3c9c0)
+
 
 - Heatmaps of crime occurrence
 - Monthly/daily crime frequency distribution
